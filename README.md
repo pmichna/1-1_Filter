@@ -15,3 +15,5 @@ How to use:
 The filter changes each pixel's value according to the defined function.
 Example: for x = 5, y = 100.
 If one of a pixel's RGB values is 5, it is changed to 100.
+
+Author: [Pawel Michna](http://pawelmichna.com)
